@@ -24,7 +24,7 @@ On a machine that has PHP 5.5 or greater and git installed:
 
 ###Option 2:
 
-1. Visit https://repl.it/ByGL. Note that this link is essentially a duplicate of the coding-exercise.php file.
+1. Visit https://repl.it/ByGL/1. Note that this link is essentially a duplicate of the coding-exercise.php file.
 2. Click on the "run" button.
 3. In the console, run the following command:
 
