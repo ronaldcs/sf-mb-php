@@ -32,4 +32,10 @@ On a machine that has PHP 5.5 or greater and git installed:
    $ce->areAllPairsAdditive(<param>);
    ```
 
-   Where `<param>` is the integer parameter of your choosing.
+   Where `<param>` is the integer parameter of your choosing. Additionally, after running the above command, you can run the following command:
+   
+   ```php
+   $ce->primes;
+   ```
+   
+   to see the list of primes.
